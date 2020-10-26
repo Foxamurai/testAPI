@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "87wSZDg/WuPlUkE8j8Op3/DXxTcFf6Iqm/9ZM3q+wv3vqTAvhZKrBzpRQ8h4jehQc9uqn+JDSD6UGwoD5wbM5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foxamurai\\Downloads\\testAPI\\testAPI\\testAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foxamurai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
